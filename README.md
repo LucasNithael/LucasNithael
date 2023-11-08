@@ -1,8 +1,10 @@
 ### Hi! I'm Nithael
 
+
 - 🔭 I’m currently interning at Top Solutions
 - 🌱 I’m currently learning React.js, VB.net, and Django
 - ⚡ Fun fact: I'm passionate about fantasy books
+
 
 ##
 <div style="display: inline_block" align="center"><br>
@@ -15,15 +17,7 @@
   <img align="center" alt="Nithael-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Nithael-Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
   <img align="center" alt="Nithael-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-          
-          
-</div>
-
-##
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasNithael&show_icons=true&all_commits=true&count_private=true&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNithael&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img align="right"  height="150" src="https://media.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif"/>        
 </div>
 
 ##
