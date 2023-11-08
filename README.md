@@ -30,3 +30,4 @@
   
 </div>
           
+![snake gif](https://github.com/LucasNithael/LucasNithael/blob/output/github-contribution-grid-snake.svg)
