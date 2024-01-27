@@ -16,8 +16,7 @@
   <img align="center" title="CSharp" alt="Nithael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" title="Django" alt="Nithael-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" title="Svelte" alt="Nithael-Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img align="center" title="Visual Studio" alt="Nithael-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="right"  height="150" src="https://media.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif"/>        
+  <img align="center" title="Visual Studio" alt="Nithael-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />      
 </div>
 
 ##
@@ -30,4 +29,7 @@
   
 </div>
           
-
+<div style="list-style-type: none; display:flex;">
+  <img height="150" src="https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif"/>
+  <img height="150" src="https://media.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif"/>
+</div>
