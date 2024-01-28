@@ -30,8 +30,8 @@
 </div>
           
 <div style="list-style-type: none; display:flex;">
-  <img height="150" src="https://media1.tenor.com/m/y2ZM0-yr3PwAAAAC/game-of-throne-le-tr%C3%B4ne-de-fer.gif"/>
-  <img height="150" src="https://media.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif"/>
-  <img height="150" src="https://media1.tenor.com/m/tAkCg5z5VloAAAAC/you-can-do-it.gif"/>
-  <img height="150" src="https://media1.tenor.com/m/sk9weSDvGKkAAAAC/flamengo-flamengo-fc.gif"/>
+  <img height="100" src="https://media1.tenor.com/m/y2ZM0-yr3PwAAAAC/game-of-throne-le-tr%C3%B4ne-de-fer.gif"/>
+  <img height="100" src="https://media.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif"/>
+  <img height="100" src="https://media1.tenor.com/m/tAkCg5z5VloAAAAC/you-can-do-it.gif"/>
+  <img height="100" src="https://media1.tenor.com/m/sk9weSDvGKkAAAAC/flamengo-flamengo-fc.gif"/>
 </div>
