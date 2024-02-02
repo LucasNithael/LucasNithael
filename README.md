@@ -1,10 +1,9 @@
-### Hi! I'm Nithael
 
+<div style="display: inline_block" align="center">
 
-- 🔭 I’m currently interning at Top Solutions
-- 🌱 I’m currently learning React.js, VB.net, and Django
-- ⚡ Fun fact: I'm passionate about fantasy books
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2500&color=F70000&center=true&multiline=true&random=false&width=460&height=43&lines=Ol%C3%A1!+Bem-vindo+ao+meu+Github." alt="Typing SVG" /></a>
+  
+</div>
 
 ##
 <div style="display: inline_block" align="center"><br>
@@ -21,7 +20,7 @@
 
 ##
 
-<div> 
+<div style="display: inline_block" align="center"> 
   
   <a href="https://instagram.com/lucasnithael.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasnithael32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,9 +28,3 @@
   
 </div>
           
-<div style="list-style-type: none; display:flex;">
-  <img height="100" src="https://media1.tenor.com/m/y2ZM0-yr3PwAAAAC/game-of-throne-le-tr%C3%B4ne-de-fer.gif"/>
-  <img height="100" src="https://media.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif"/>
-  <img height="100" src="https://media1.tenor.com/m/tAkCg5z5VloAAAAC/you-can-do-it.gif"/>
-  <img height="100" src="https://media1.tenor.com/m/sk9weSDvGKkAAAAC/flamengo-flamengo-fc.gif"/>
-</div>
