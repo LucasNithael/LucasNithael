@@ -43,7 +43,9 @@
   <a href = "mailto:lucasnithael32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasnithael" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <img src="https://i.pinimg.com/originals/ab/1a/fe/ab1afebb2fe63ede8210d53253269e52.gif" width="300px"/>
+  <!--<img src="https://i.pinimg.com/originals/ab/1a/fe/ab1afebb2fe63ede8210d53253269e52.gif" width="300px"/>-->
   
+  ![rlx-space](https://github.com/LucasNithael/LucasNithael/assets/94084548/662bb99a-7aec-4204-8b9c-8149ddc59f2a)
+
 </div>
           
