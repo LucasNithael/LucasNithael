@@ -7,7 +7,7 @@
 
 ##
 
-<div style="display: inline_block" align="center"><br>
+<!--<div style="display: inline_block" align="center"><br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0014FF&center=true&vCenter=true&repeat=false&random=false&width=375&lines=Trabalhando+atualmente%3A" alt="Typing SVG" /></a>
   <br>
   
@@ -33,7 +33,7 @@
 </div>
 
 ##
-
+-->
 <div style="display: inline_block" align="center"> 
   
   <a href="https://instagram.com/lucasnithael.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
